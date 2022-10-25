@@ -1,7 +1,6 @@
-# > "Aumento do desmatamento da Amazônia Legal"
+# > Aumento do desmatamento da Amazônia Legal
 
 - Aluno: Bernardo Dias
-
 - RA: 2111090
 
 ## > Introdução.
@@ -18,7 +17,6 @@
 
 Link para o [miro](https://miro.com/app/board/uXjVPKwX9-g=/?share_link_id=238010818841)
 
-
 ## > Business Model Canvas.
 
 ![image](https://user-images.githubusercontent.com/116168402/197620473-7b973008-621b-4a0a-ac45-601eb51d6cec.png)
@@ -34,4 +32,5 @@ Link para o [miro](https://miro.com/app/board/uXjVPKwX9-g=/?share_link_id=192126
 - https://ipam.org.br/wp-content/uploads/2007/11/três_estrategias.pdf
 
 ## > Minhas contribuições.
-- [Rodrigo Silva](https://github.com/Rodrigosilva028/Trab_dados/blob/main/README.md)
+- [Rodrigo Silva]
+(https://github.com/Rodrigosilva028/Trab_dados/blob/main/README.md)
